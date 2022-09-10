@@ -3,7 +3,7 @@ title: "Capstone Project"
 subtitle: "A brief analysis of the Bellabeat products"
 author: "Fábio Silva"
 date: "2022-08-26"
-output: github_document
+output: html_document
 editor_options: 
   markdown: 
     wrap: 100
